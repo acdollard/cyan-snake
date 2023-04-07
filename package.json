@@ -13,10 +13,5 @@
     "@typescript-eslint/parser": "^5.57.1",
     "eslint": "^8.38.0",
     "eslint-plugin-react": "^7.32.2"
-  },
-  "dependencies": {
-    "@babel/core": "^7.21.4",
-    "prettier": "^2.8.7",
-    "typescript": "^5.0.4"
   }
 }
